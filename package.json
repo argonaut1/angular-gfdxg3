@@ -28,7 +28,7 @@
     "enhanced-resolve": "^3.3.0",
     "font-awesome": "^4.7.0",
     "intl": "^1.2.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "materialize-css": "^0.100.2",
     "ng2-signalr": "^2.1.0",
     "ngx-rating": "0.0.9",
